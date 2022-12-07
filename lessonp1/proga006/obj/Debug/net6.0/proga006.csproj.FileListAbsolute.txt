@@ -1,0 +1,15 @@
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\bin\Debug\net6.0\proga006.exe
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\bin\Debug\net6.0\proga006.deps.json
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\bin\Debug\net6.0\proga006.runtimeconfig.json
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\bin\Debug\net6.0\proga006.dll
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\bin\Debug\net6.0\proga006.pdb
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.csproj.AssemblyReference.cache
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.AssemblyInfoInputs.cache
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.AssemblyInfo.cs
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.csproj.CoreCompileInputs.cache
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.dll
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\refint\proga006.dll
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.pdb
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\proga006.genruntimeconfig.cache
+C:\Users\liza_.DESKTOP-R8B4EL2\Desktop\programmirovanie\lessonp1\proga006\obj\Debug\net6.0\ref\proga006.dll
